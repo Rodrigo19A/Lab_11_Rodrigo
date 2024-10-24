@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Rodrigo Alvarez Calderon",
+        "gender": "Masculino",
+        "age": 21,
+        "role": "Estudiante Ing TIS"
+      },
+      {
+        "id": 2,
+        "name": "Carla Martinez",
+        "gender": "female",
+        "age": 22,
+        "role": "Marketing Specialist"
+      }
+    ]
+  }
+  
